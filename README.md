@@ -20,3 +20,5 @@ The UBEC with a little soldering and the end of a micro USB cable to allow you t
 Those are just some ideas for items, you are likely to find them cheaper ones if you shop around.
 
 I have included some example python code for object avoidance and some example scratch programs for remote control.
+
+All work is licensed under the GNU General Public License. This can be found in the COPYING file.
